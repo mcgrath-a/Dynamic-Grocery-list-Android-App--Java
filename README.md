@@ -11,3 +11,7 @@ This simple app was created with the goals to:
 
 For the main code go to:
  https://github.com/mcgrath-a/Dynamic-Grocery-list-Android-App--Java/blob/48acbcfc0164c2e4be6ce02a59a5f340b910d79d/app/src/main/java/com/example/homework9comp181/MainActivity.java 
+
+
+*****
+This is MY work. Code file is uploaded from my computer. Please do not directly copy code.
